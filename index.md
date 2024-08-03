@@ -20,3 +20,10 @@ Feel free to reach out to me via [email](mailto:your-pnarjun9947@gmail.com).
 
 Thank you for visiting my GitHub profile!
 ![Image of markdown](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)
+```python
+def hello_world():
+    print("Hello, World!")
+    print("My name is Arjun pn ")
+
+hello_world()
+
